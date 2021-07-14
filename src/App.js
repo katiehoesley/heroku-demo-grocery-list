@@ -10,6 +10,7 @@ function App() {
           <li>eggs</li>
           <li>bacon</li>
           <li>bread</li>
+          <li>banana</li>
         </ul>
     </div>
   );
