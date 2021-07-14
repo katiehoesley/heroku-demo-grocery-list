@@ -9,6 +9,7 @@ function App() {
           <li>apples</li>
           <li>eggs</li>
           <li>bacon</li>
+          <li>bread</li>
         </ul>
     </div>
   );
